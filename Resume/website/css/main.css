@@ -1,0 +1,33 @@
+body {margin: auto;}
+
+#community {height: 1700px;
+            width: 1700px;
+            background-color: darkgray;
+            border-radius: 50%;
+            border: black 1px solid;
+            display: inline-block;
+            margin: auto;}
+
+#professional {height: 1300px;
+                width: 1300px;
+                background-color: darkgray;
+                border-radius: 50%;
+                border: black 1px solid;
+                display: inline-block;
+                margin: auto;}
+
+#scholarly {height: 900px;
+            width: 900px;
+            background-color: darkgray;
+            border-radius: 50%;
+            border: black 1px solid;
+            display: inline-block;
+            margin: auto;}
+
+#personal {height: 500px;
+            width: 500px;
+            background-color: darkgray;
+            border-radius: 50%;
+            border: black 1px solid;
+            display: inline-block;
+            margin: auto;}
